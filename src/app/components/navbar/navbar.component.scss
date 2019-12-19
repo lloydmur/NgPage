@@ -1,0 +1,32 @@
+.navbar{
+    background-color: rgba(0, 0, 0, 0.473);
+}
+.navbarLinks{
+    display: flex;
+    flex-direction: row;
+    margin: 0px;
+    padding: 0px;
+    justify-content: flex-start;
+    list-style: none;
+}
+li.nb-link{
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+li.nb-link a{
+    font-size: 16px;
+    padding: 0px;
+    font-size: 16px;
+    align-self: center;
+}
+#clock{
+    color: whitesmoke;
+    font-family: 'Teko', sans-serif;
+}
+#clock p{
+    margin: 0px;
+    font-size: 24px;
+    align-self: center;
+}
