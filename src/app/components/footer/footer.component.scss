@@ -1,0 +1,24 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-image: url('../../../assets/images/planks.jpg');
+}
+.title{
+    color: white;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    align-self: center;
+}
+ul li {
+    margin: 0px 8px;
+}
+.fab{
+    color: whitesmoke;
+}
